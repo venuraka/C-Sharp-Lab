@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\user\\OneDrive\\Desktop\\C# Lab\\day 01\\Q3\\",
+  "WorkspaceRootPath": "C:\\Users\\user\\OneDrive\\Desktop\\C-Sharp-Lab\\day 01\\Q3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{14A59F99-7902-4751-A45A-1D7C16BDBC34}|Q3\\Q3.csproj|c:\\users\\user\\onedrive\\desktop\\c# lab\\day 01\\q3\\q3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{14A59F99-7902-4751-A45A-1D7C16BDBC34}|Q3\\Q3.csproj|c:\\users\\user\\onedrive\\desktop\\c-sharp-lab\\day 01\\q3\\q3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{14A59F99-7902-4751-A45A-1D7C16BDBC34}|Q3\\Q3.csproj|solutionrelative:q3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\C# Lab\\day 01\\Q3\\Q3\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\C-Sharp-Lab\\day 01\\Q3\\Q3\\Program.cs",
               "RelativeDocumentMoniker": "Q3\\Program.cs",
-              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\C# Lab\\day 01\\Q3\\Q3\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\C-Sharp-Lab\\day 01\\Q3\\Q3\\Program.cs",
               "RelativeToolTip": "Q3\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA3AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-30T15:03:23.271Z",
               "EditorCaption": ""
