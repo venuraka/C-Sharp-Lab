@@ -9,6 +9,14 @@ namespace Q4
     internal class product
     {
         public string ProductName;
-        public string Price;
+        public int Price;
+
+        public product(string ProductName, int Price)
+        {
+            this.ProductName = ProductName;
+            this.Price = Price;
+        }
     }
+
+
 }

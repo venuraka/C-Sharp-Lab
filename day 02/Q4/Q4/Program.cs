@@ -10,6 +10,12 @@ namespace Q4
     {
         static void Main(string[] args)
         {
+            product product1 =new product("Laptop", 1000);
+            product product2 =new product("Mobile", 500);
+
+            Console.WriteLine("Product is " + product1.ProductName + " and price is " + product1.Price);    
+            Console.WriteLine("Product is " + product2.ProductName + " and price is " + product2.Price);
+            Console.ReadLine();
         }
     }
 }

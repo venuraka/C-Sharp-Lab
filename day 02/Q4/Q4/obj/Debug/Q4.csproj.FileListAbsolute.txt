@@ -1,0 +1,7 @@
+C:\Users\user\OneDrive\Desktop\C-Sharp-Lab\day 02\Q4\Q4\bin\Debug\Q4.exe.config
+C:\Users\user\OneDrive\Desktop\C-Sharp-Lab\day 02\Q4\Q4\bin\Debug\Q4.exe
+C:\Users\user\OneDrive\Desktop\C-Sharp-Lab\day 02\Q4\Q4\bin\Debug\Q4.pdb
+C:\Users\user\OneDrive\Desktop\C-Sharp-Lab\day 02\Q4\Q4\obj\Debug\Q4.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Desktop\C-Sharp-Lab\day 02\Q4\Q4\obj\Debug\Q4.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\C-Sharp-Lab\day 02\Q4\Q4\obj\Debug\Q4.exe
+C:\Users\user\OneDrive\Desktop\C-Sharp-Lab\day 02\Q4\Q4\obj\Debug\Q4.pdb
